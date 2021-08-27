@@ -1,4 +1,3 @@
 - Wellcome on my bussiness page
 
-- some projects here:
-  - ortopediesokolov.cz
+for details see www.ortocomp.cz
